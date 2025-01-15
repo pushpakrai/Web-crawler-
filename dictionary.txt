@@ -1,0 +1,24 @@
+Flight
+Airline
+Booking
+Departure
+Arrival
+Boarding Pass
+Ticket
+Airport
+Hotel
+Reservation
+Booking
+Room
+Accommodation
+Check-in
+Check-out
+Amenities
+Holiday
+Vacation
+Destination
+Travel
+Tour
+Itinerary
+Sightseeing
+Getaway
